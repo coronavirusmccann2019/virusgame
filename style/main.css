@@ -419,7 +419,7 @@ hr {
     background: #f9f6f2 url(worldCupStars/ronaldo.png);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
-    font-size: 45px; }
+    font-size: 23px; }
  .tile.tile-256 .tile-inner {
     background: #f9f6f2 url(worldCupStars/romario.png);
     background-size: cover;
@@ -564,11 +564,11 @@ hr {
 
 .restart-button {
   display: inline-block;
-  background: #8f7a66;
+  background: #4B4137;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
-  color: #f9f6f2;
+  color: #FDF3EA;
   height: 40px;
   line-height: 42px;
   cursor: pointer;
