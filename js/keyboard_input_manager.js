@@ -85,6 +85,8 @@ KeyboardInputManager.prototype.listen = function () {
         event.targetTouches > 1 ||
         self.targetIsInput(event)) {
       return; // Ignore if touching with more than 1 finger or touching input
+        event.targetTouches.length > 1) {
+      return; // Ignore if touching with more than 1 finger
     }
 
     if (window.navigator.msPointerEnabled) {
@@ -107,6 +109,8 @@ KeyboardInputManager.prototype.listen = function () {
         event.targetTouches > 0 ||
         self.targetIsInput(event)) {
       return; // Ignore if still touching with one or more fingers or input
+        event.targetTouches.length > 0) {
+      return; // Ignore if still touching with one or more fingers
     }
 
     var touchEndClientX, touchEndClientY;
