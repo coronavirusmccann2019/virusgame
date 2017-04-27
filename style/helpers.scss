@@ -48,6 +48,7 @@
 @mixin transform($args...) {
   -webkit-transform: $args;
   -moz-transform: $args;
+  -ms-transform: $args;
   transform: $args;
 }
 
@@ -69,6 +70,13 @@
   @media screen and (max-width: $width) {
     @content;
   }
+}
+
+// Appearance
+@mixin appearance($args...) {
+  -webkit-appearance: $args;
+  -moz-appearance: $args;
+  appearance: $args;
 }
 
 // Clearfix
