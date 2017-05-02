@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #00cc66;
-  color: #99801F;
+  background: #339665;
+  color: #e5e843;
   font-family: "Clear Sans", "Helvetica Neue", solid, sans-serif;
   font-size: 18px; }
 
@@ -317,42 +317,42 @@ hr {
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-4 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/stoichkov.png);
+    background: #f9f6f2 url(worldCupStars/stoichkov2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-8 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/milla.png);
+    background: #f9f6f2 url(worldCupStars/milla2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-16 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/mcgrath.png);
+    background: #f9f6f2 url(worldCupStars/mcgrath2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-32 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/baggio.png);
+    background: #f9f6f2 url(worldCupStars/baggio2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-64 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/bergkamp.png);
+    background: #f9f6f2 url(worldCupStars/bergkamp2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-128 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/ronaldo.png);
+    background: #f9f6f2 url(worldCupStars/ronaldo2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 45px; }
  .tile.tile-256 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/romario.png);
+    background: #f9f6f2 url(worldCupStars/romario2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
  .tile.tile-512 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/zidane.png);
+    background: #f9f6f2 url(worldCupStars/zidane2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
  .tile.tile-1024 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/pele.png);
+    background: #f9f6f2 url(worldCupStars/pele2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
@@ -360,7 +360,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
  .tile.tile-2048 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/maradona.png);
+    background: #f9f6f2 url(worldCupStars/maradona2.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
