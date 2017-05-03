@@ -7,6 +7,10 @@ html, body {
   font-family: "Clear Sans", "Helvetica Neue", solid, sans-serif;
   font-size: 18px; }
 
+audio {
+    display:none;
+}
+
 body {
   margin: 80px 0; }
 
