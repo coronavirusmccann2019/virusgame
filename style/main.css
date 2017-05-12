@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #339665;
+  background: -webkit-linear-gradient(top left, green, white);
   color: #e5e843;
   font-family: "Clear Sans", "Helvetica Neue", solid, sans-serif;
   font-size: 18px; }
@@ -317,23 +317,23 @@ hr {
     z-index: 10;
     font-size: 18px; }
   .tile.tile-2 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/valder2.PNG);
+    background: #f9f6f2 url(worldCupStars/flavface.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-4 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/stoichkov2.PNG);
+    background: #f9f6f2 url(worldCupStars/flavface.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-8 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/milla2.PNG);
+    background: #f9f6f2 url(worldCupStars/flavface.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-16 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/mcgrath2.PNG);
+    background: #f9f6f2 url(worldCupStars/flavface.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-32 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/baggio2.PNG);
+    background: #f9f6f2 url(worldCupStars/flavface.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-64 .tile-inner {
