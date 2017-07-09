@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: -webkit-linear-gradient(top left, blue, white);
-  color: #e5e843;
+  background: -webkit-linear-gradient(top left, white, white);
+  color: #fdcb00;
   font-family: "Clear Sans", "Helvetica Neue", solid, sans-serif;
   font-size: 18px; }
 
@@ -153,7 +153,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #2e6752;;
+  background: #005b9e;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -317,46 +317,46 @@ hr {
     z-index: 10;
     font-size: 18px; }
   .tile.tile-2 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/martyn.PNG);
+    background: #f9f6f2 url(lufcStars/martyn.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-4 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/stoichkov2.PNG);
+    background: #f9f6f2 url(lufcStars/kelly.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-8 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/milla2.PNG);
+    background: #f9f6f2 url(lufcStars/cooper.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-16 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/mcgrath2.PNG);
+    background: #f9f6f2 url(lufcStars/bremner.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-32 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/baggio2.PNG);
+    background: #f9f6f2 url(lufcStars/radebe.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-64 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/bergkamp2.PNG);
+    background: #f9f6f2 url(lufcStars/jansson.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-128 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/ronaldo2.PNG);
+    background: #f9f6f2 url(lufcStars/giles.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 25px; }
  .tile.tile-256 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/romario2.PNG);
+    background: #f9f6f2 url(lufcStars/sheridan.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 18px; }
  .tile.tile-512 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/zidane2.PNG);
+    background: #f9f6f2 url(lufcStars/becchio.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
  .tile.tile-1024 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/pele2.PNG);
+    background: #f9f6f2 url(lufcStars/yeboah.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
@@ -364,7 +364,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
  .tile.tile-2048 .tile-inner {
-    background: #f9f6f2 url(worldCupStars/maradona2.PNG);
+    background: #f9f6f2 url(lufcStars/speed.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
