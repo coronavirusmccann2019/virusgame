@@ -341,7 +341,7 @@ hr {
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-128 .tile-inner {
-    background: #f9f6f2 url(lufcStars/rv.PNG);
+    background: #f9f6f2 url(lufcStars/alioski.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 25px; }
@@ -351,7 +351,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 18px; }
  .tile.tile-512 .tile-inner {
-    background: #f9f6f2 url(lufcStars/roofe.PNG);
+    background: #f9f6f2 url(lufcStars/wood.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
@@ -364,7 +364,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
  .tile.tile-2048 .tile-inner {
-    background: #f9f6f2 url(lufcStars/wood.PNG);
+    background: #f9f6f2 url(lufcStars/roofe.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 23px; }
