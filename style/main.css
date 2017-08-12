@@ -337,7 +337,7 @@ hr {
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-64 .tile-inner {
-    background: #f9f6f2 url(lufcStars/saiz.PNG);
+    background: #f9f6f2 url(lufcStars/okane.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
 .tile.tile-128 .tile-inner {
@@ -346,7 +346,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 25px; }
  .tile.tile-256 .tile-inner {
-    background: #f9f6f2 url(lufcStars/okane.PNG);
+    background: #f9f6f2 url(lufcStars/saiz.PNG);
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     font-size: 18px; }
