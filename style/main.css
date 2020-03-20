@@ -58,7 +58,7 @@ h1.title {
   position: relative;
   display: inline-block;
   background: #bbada0;
-  padding: 15px 25px;
+  padding: 15px 70px;
   font-size: 25px;
   height: 25px;
   line-height: 47px;
@@ -94,10 +94,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Number of Infected"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Total Number of Infected"; }
 
 p {
   margin-top: 0;
