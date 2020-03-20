@@ -37,7 +37,7 @@ HTMLActuator.prototype.actuate = function (grid, metadata) {
 };
 
 // Continues the game (both restart and keep playing)
-HTMLActuator.prototype.continueGame = function () {
+HTMLActuator.prototype.continue = function () {
   if (typeof ga !== "undefined") {
     ga("send", "event", "game", "restart");
   }
@@ -67,7 +67,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   this.applyClasses(wrapper, classes);
 
   inner.classList.add("tile-inner");
-  inner.textContent = tile.value;
+  inner.textContent = Math.log(tile.value)/Math.log(2);
 
   if (tile.previousPosition) {
     // Make sure that the tile gets rendered in the previous position first
@@ -155,13 +155,11 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   var tweet = document.createElement("a");
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
-  tweet.setAttribute("data-via", "gabrielecirulli");
-  tweet.setAttribute("data-url", "http://git.io/2048");
-  tweet.setAttribute("data-counturl", "http://gabrielecirulli.github.io/2048/");
+  tweet.setAttribute("data-url", "http://suki.ipb.ac.rs/11");
+  tweet.setAttribute("data-counturl", "http://suki.ipb.ac.rs/11/");
   tweet.textContent = "Tweet";
-
-  var text = "I scored " + this.score + " points at 2048, a game where you " +
-             "join numbers to score high! #2048game";
+  var text = "I scored " + this.score + ", a game where you " +
+             "join numbers to score high! #11game";
   tweet.setAttribute("data-text", text);
 
   return tweet;
