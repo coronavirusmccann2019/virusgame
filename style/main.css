@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: -webkit-linear-gradient(top left, white, white);
-  color: #fdcb00;
+  color: #28ec64;
   font-family: "Clear Sans", "Helvetica Neue", solid, sans-serif;
   font-size: 18px; }
 
@@ -97,7 +97,7 @@ h1.title {
   content: "Number of Infected"; }
 
 .best-container:after {
-  content: "Total Number of Infected"; }
+  content: "Total Infected"; }
 
 p {
   margin-top: 0;
@@ -153,7 +153,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #005b9e;
+  background: #28ec64;
   border-radius: 6px;
   width: 500px;
   height: 500px;
